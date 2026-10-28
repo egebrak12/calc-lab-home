@@ -1,5 +1,5 @@
 // Ege Burak Ergun 251ADB009
-// GitHub repository: optional; add real repository URL if desired
+// GitHub repository: https://github.com/egebrak12/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
 // Resources used: ChatGPT (GPT-6), chat history: https://chatgpt.com/share/6ae15220-486c-83ed-8180-586684b43b93
 // The following are actual user prompts in this conversation, copied verbatim.
